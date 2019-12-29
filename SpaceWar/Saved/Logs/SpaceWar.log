@@ -4227,3 +4227,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.29-19.02.48:321][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2019.12.29-19.02.48:353][766]LogPlayLevel: Display: Destroying online subsystem :Context_50
 [2019.12.29-19.02.50:209][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2019.12.29-19.03.48:500][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.29-19.03.48:500][474]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingBP/Maps/FirstLevel' took 0.051
+[2019.12.29-19.03.48:501][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/spaceMaterial] ([1] browsable assets)...
+[2019.12.29-19.03.48:542][474]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/spaceMaterial.SpaceMaterial]
+[2019.12.29-19.03.48:542][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/spaceMaterial]
+[2019.12.29-19.03.48:542][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/spaceMaterial" FILE="D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Autosaves/Game/Blueprints/spaceMaterial_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.12.29-19.03.48:568][474]LogSavePackage: Moving 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/spaceMaterial_Auto162EF5B8D40D721D20D9BCA843BA2A88D.tmp' to 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Autosaves/Game/Blueprints/spaceMaterial_Auto1.uasset'
+[2019.12.29-19.03.48:569][474]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.12.29-19.03.52:846][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.29-19.03.53:004][857]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/SpacePlayerController.SpacePlayerController
+[2019.12.29-19.04.05:235][ 32]BlueprintLog: New page: Compile SpacePlayerController
+[2019.12.29-19.04.05:434][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.29-19.04.05:919][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpacePlayerController" FILE="D:/study/4_course/AKG/NewEra/SpaceWar/Content/Blueprints/SpacePlayerController.uasset" SILENT=true
+[2019.12.29-19.04.05:995][ 73]LogSavePackage: Moving 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/SpacePlayerController2587E35A484C939CDBAD36B439BF7736.tmp' to 'D:/study/4_course/AKG/NewEra/SpaceWar/Content/Blueprints/SpacePlayerController.uasset'
+[2019.12.29-19.04.10:557][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.29-19.04.10:692][560]LogSlate: Window 'SpacePlayerController' being destroyed
+[2019.12.29-19.04.10:697][560]LogSlate: Window 'SpacePlayerController' being destroyed
+[2019.12.29-19.04.13:269][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.29-19.04.13:345][930]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-19.04.13:364][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FlyingBP/Maps/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.12.29-19.04.13:364][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-19.04.13:364][930]PIE: New page: PIE session: FirstLevel (Dec 30, 2019, 1:04:13 AM)
+[2019.12.29-19.04.13:364][930]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FirstLevel
+[2019.12.29-19.04.13:374][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009357s)
+[2019.12.29-19.04.13:375][930]LogAIModule: Creating AISystem for world FirstLevel
+[2019.12.29-19.04.13:375][930]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.12.29-19.04.13:375][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FirstLevel.FirstLevel to /Game/FlyingBP/Maps/UEDPIE_0_FirstLevel.FirstLevel (0.010094s)
+[2019.12.29-19.04.13:408][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.29-19.04.13:412][930]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.29-19.04.13:425][930]LogInit: FAudioDevice initialized.
+[2019.12.29-19.04.13:456][930]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.12.29-19.04.13:457][930]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 144) at 2019.12.29-22.04.13
+[2019.12.29-19.04.13:458][930]LogWorld: Bringing up level for play took: 0.000607
+[2019.12.29-19.04.13:473][930]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.29-19.04.13:473][930]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.29-19.04.13:473][930]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.29-19.04.13:473][930]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.29-19.04.13:474][930]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.29-19.04.13:474][930]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.29-19.04.13:487][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2099.643 Y=30178.324 Z=63514.125] for [BigAsteroid_C]
+[2019.12.29-19.04.13:490][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-19021.363 Y=8190.795 Z=41187.344] for [BigAsteroid_C]
+[2019.12.29-19.04.13:510][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1069.497 Y=2081.977 Z=71022.070] for [BigAsteroid_C]
+[2019.12.29-19.04.13:526][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=17540.727 Y=8724.431 Z=39612.223] for [BigAsteroid_C]
+[2019.12.29-19.04.13:529][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-636.562 Y=50.457 Z=71098.656] for [BigAsteroid_C]
+[2019.12.29-19.04.13:533][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-392.612 Y=572.411 Z=70786.164] for [BigAsteroid_C]
+[2019.12.29-19.04.13:533][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-25057.811 Y=24977.465 Z=81454.016] for [BigAsteroid_C]
+[2019.12.29-19.04.13:535][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=404.947 Y=-18400.672 Z=41081.109] for [BigAsteroid_C]
+[2019.12.29-19.04.13:535][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-807.469 Y=-2285.271 Z=71277.180] for [BigAsteroid_C]
+[2019.12.29-19.04.13:546][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2111.781 Y=31441.023 Z=90388.648] for [BigAsteroid_C]
+[2019.12.29-19.04.13:550][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=16511.564 Y=16799.811 Z=99506.016] for [BigAsteroid_C]
+[2019.12.29-19.04.13:552][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=22756.914 Y=7334.634 Z=42772.492] for [BigAsteroid_C]
+[2019.12.29-19.04.13:558][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-20225.178 Y=7467.441 Z=101068.063] for [BigAsteroid_C]
+[2019.12.29-19.04.13:558][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=570.651 Y=-694.836 Z=70165.742] for [BigAsteroid_C]
+[2019.12.29-19.04.13:561][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-347.163 Y=-1482.959 Z=70295.703] for [BigAsteroid_C]
+[2019.12.29-19.04.13:562][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2700.665 Y=35655.582 Z=63261.293] for [BigAsteroid_C]
+[2019.12.29-19.04.13:565][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-12739.432 Y=18414.098 Z=100245.281] for [BigAsteroid_C]
+[2019.12.29-19.04.13:566][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13224.343 Y=34325.777 Z=68147.852] for [BigAsteroid_C]
+[2019.12.29-19.04.13:568][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25667.266 Y=22487.375 Z=56709.418] for [BigAsteroid_C]
+[2019.12.29-19.04.13:568][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=280.961 Y=-775.470 Z=70280.906] for [BigAsteroid_C]
+[2019.12.29-19.04.13:569][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8560.816 Y=-27679.682 Z=94004.141] for [BigAsteroid_C]
+[2019.12.29-19.04.13:573][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-20908.945 Y=26609.266 Z=56680.305] for [BigAsteroid_C]
+[2019.12.29-19.04.13:576][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12893.920 Y=31697.723 Z=85004.758] for [BigAsteroid_C]
+[2019.12.29-19.04.13:576][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-909.652 Y=393.775 Z=71359.758] for [BigAsteroid_C]
+[2019.12.29-19.04.13:577][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=34973.734 Y=-2681.049 Z=78456.117] for [BigAsteroid_C]
+[2019.12.29-19.04.13:578][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9463.369 Y=-3911.484 Z=71327.984] for [BigAsteroid_C]
+[2019.12.29-19.04.13:579][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=16233.687 Y=32100.078 Z=79649.953] for [BigAsteroid_C]
+[2019.12.29-19.04.13:580][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=568.607 Y=-77.895 Z=70968.828] for [BigAsteroid_C]
+[2019.12.29-19.04.13:581][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2869.191 Y=-9079.207 Z=106477.359] for [BigAsteroid_C]
+[2019.12.29-19.04.13:583][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9282.356 Y=-31661.283 Z=86617.656] for [BigAsteroid_C]
+[2019.12.29-19.04.13:584][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-24656.688 Y=-27400.568 Z=73912.547] for [BigAsteroid_C]
+[2019.12.29-19.04.13:586][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-91.191 Y=298.294 Z=70811.414] for [BigAsteroid_C]
+[2019.12.29-19.04.13:586][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-25351.832 Y=-26726.496 Z=74312.945] for [BigAsteroid_C]
+[2019.12.29-19.04.13:588][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=780.145 Y=6697.353 Z=67996.508] for [BigAsteroid_C]
+[2019.12.29-19.04.13:589][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=22320.143 Y=-4533.396 Z=41936.582] for [BigAsteroid_C]
+[2019.12.29-19.04.13:590][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=21108.430 Y=-26406.727 Z=84997.383] for [BigAsteroid_C]
+[2019.12.29-19.04.13:592][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-711.080 Y=-624.553 Z=70298.438] for [BigAsteroid_C]
+[2019.12.29-19.04.13:593][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=17930.383 Y=30126.402 Z=81025.391] for [BigAsteroid_C]
+[2019.12.29-19.04.13:596][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2048.198 Y=-3314.276 Z=69925.039] for [BigAsteroid_C]
+[2019.12.29-19.04.13:597][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7219.198 Y=-28708.795 Z=87786.391] for [BigAsteroid_C]
+[2019.12.29-19.04.13:605][930]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FirstLevel 1.136
+[2019.12.29-19.04.13:606][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FlyingBP/Maps/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.12.29-19.04.40:358][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-32493.145 Y=17300.539 Z=72341.164] for [BigAsteroid_C]
+[2019.12.29-19.04.46:356][157]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5860.390 Y=35079.582 Z=60805.125] for [BigAsteroid_C]
+[2019.12.29-19.05.22:896][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FlyingBP/Maps/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.12.29-19.05.22:897][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-19.05.22:946][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-19.05.22:946][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FlyingBP/Maps/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.12.29-19.05.22:990][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-19.05.23:001][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.29-19.05.23:027][137]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.12.29-19.05.26:021][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.29-19.05.26:192][501]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/SpacePlayerController.SpacePlayerController
+[2019.12.29-19.05.38:832][758]BlueprintLog: New page: Compile SpacePlayerController
+[2019.12.29-19.05.39:021][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.29-19.05.39:500][804]LogSlate: Window 'SpacePlayerController' being destroyed
+[2019.12.29-19.05.39:504][804]LogSlate: Window 'SpacePlayerController' being destroyed
+[2019.12.29-19.14.57:744][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.29-19.14.57:784][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.29-19.14.57:784][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingBP/Maps/FirstLevel' took 0.031
+[2019.12.29-19.14.57:785][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SpacePlayerController] ([1] browsable assets)...
+[2019.12.29-19.14.57:785][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SpacePlayerController]
+[2019.12.29-19.14.57:867][158]LogSavePackage: Moving 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/SpacePlayerController_Auto2C6808796409568121CD14FB3500047FB.tmp' to 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/Autosaves/Game/Blueprints/SpacePlayerController_Auto2.uasset'
+[2019.12.29-19.14.57:868][158]LogFileHelpers: Auto-saving content packages took 0.083
+[2019.12.29-19.15.15:220][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.29-19.15.15:332][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FirstLevel" FILE="D:/study/4_course/AKG/NewEra/SpaceWar/Content/FlyingBP/Maps/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.29-19.15.15:362][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.29-19.15.15:536][ 49]LogSavePackage: Moving 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/FirstLevel8186397544CACB8ABDB13F89027C1E30.tmp' to 'D:/study/4_course/AKG/NewEra/SpaceWar/Content/FlyingBP/Maps/FirstLevel.umap'
+[2019.12.29-19.15.15:582][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FirstLevel_BuiltData" FILE="D:/study/4_course/AKG/NewEra/SpaceWar/Content/FlyingBP/Maps/FirstLevel_BuiltData.uasset" SILENT=true
+[2019.12.29-19.15.15:602][ 49]LogSavePackage: Moving 'D:/study/4_course/AKG/NewEra/SpaceWar/Saved/FirstLevel_BuiltData145B5A2948695AB6780AC4BF438C3462.tmp' to 'D:/study/4_course/AKG/NewEra/SpaceWar/Content/FlyingBP/Maps/FirstLevel_BuiltData.uasset'
